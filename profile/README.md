@@ -11,4 +11,4 @@ L’activité du M82_project poursuit ainsi des objectifs suivants :
 
 ●	D’animation de réseau et de diffusion de la connaissance et de l’expertise : M82 participe à des événements en France ou à l’étranger, elle peut en organiser, contribuer à des publications en France ou à l’étranger, ou peut en éditer, et conduire des actions de sensibilisation ou d’appui à la décision.
 
-Nos statuts : 
+Nos statuts : profile/M82-Statuts.pdf
