@@ -1,5 +1,5 @@
 ## Hi there 👋
-Adhérer, découvrir notre activité et nous soutenir : https://www.helloasso.com/associations/m82-project
+Adhérer, découvrir notre activité : https://m82-project.org/ ou nous soutenir : https://www.helloasso.com/associations/m82-project
 Nous contacter: contact@m82-project.org
 
 M82_Project, a pour objet principal de faciliter la compréhension et la prise en compte des enjeux liés à la sécurité numérique et favoriser la circulation des connaissances pluridisciplinaires. Elle a pour objet de constituer, animer et développer un réseau d’acteurs et d’experts du domaine de la cybersécurité, cyberdéfense et de la lutte contre la manipulation de l’information.
